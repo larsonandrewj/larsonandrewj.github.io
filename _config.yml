@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Andrew Larson
+email: larson.andrew22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Here is my personal webiste for Andrew Larson, Economics major.
 twitter_username: username
-github_username: username
+github_username: larsonandrewj
 minimal_mistakes_skin: default
 search: true
 
@@ -58,23 +56,23 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Andrew Larson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a student at Lawrence University majoring in Economics and minoring in Data Science. I am also on the Men's Tennis Team."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/larsonandrewj"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://instagram.com/andrewlar23"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin""
+      url: "URL of my linkedin
 footer:
   links:
     - label: "Twitter"
